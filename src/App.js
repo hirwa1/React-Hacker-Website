@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <h1>Hello </h1>
       <p>W are magic boys</p>
-      <button>
+      <button id="bb">
       i am pargrath
       </button>
       <ul>
