@@ -7,7 +7,7 @@ export default function App() {
       <h1>Hello </h1>
       <p>W are magic boys</p>
       <button id="bb">
-      i am pargrath
+      i am perfect HIRWA
       </button>
       <ul>
       <li>Pro developers</li>

@@ -5,7 +5,10 @@ h1, p {
   padding:20px;
   color: greenyellow;
   background-color: black;
-  border: none;
+  border: 2px solid ;
   border-radius: 6px;
   font-size: 20px;
+}
+body{
+  background-color: black;
 }
