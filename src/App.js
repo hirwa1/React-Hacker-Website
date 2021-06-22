@@ -11,7 +11,8 @@ export default function App() {
       </button></center>
       <ul>
       <li>Pro developers</li>
-      <li>Pro cyber experts u</li>
+      <li>Pro cyber experts </li>
+      <li>Pro Web designers</li>
       </ul>
     </div>
 
